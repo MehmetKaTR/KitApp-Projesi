@@ -1,0 +1,3 @@
+- main dosyası.exe içindir. 
+- KitAppWeb dosyası ise server'i çalıştırmak için gereklidir.
+- pythonProje ise videodur.
