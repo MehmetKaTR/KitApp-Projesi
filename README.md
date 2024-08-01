@@ -8,6 +8,5 @@ Python ile kullanıcılara kitaplar hakkında bilgi veren ve kişilerin yorumlar
 -----------------------------
 ![image](https://github.com/user-attachments/assets/44fd4cb2-f7db-4363-b02c-616a91d0e4e2)
 -----------------------------
-![image](https://github.com/user-attachments/assets/dc0d4f3f-7f4e-441a-b409-a5e771c1d65e)
 
 
